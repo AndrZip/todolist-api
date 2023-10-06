@@ -61,9 +61,9 @@ Siga estas etapas para instalar e configurar a API Todolist:
 5. **Inicie o servidor:**
 
    ```bash
-   npm start
+   npm run dev
    # ou
-   yarn start
+   yarn run dev
    ```
 
    A API estará disponível em `http://localhost:3000` por padrão.
