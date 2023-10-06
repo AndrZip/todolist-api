@@ -1,7 +1,7 @@
 # API Todolist
 
 <p align="center">
-  <img src="https://i.pinimg.com/originals/a2/4c/b5/a24cb568fa40046f8562dbc45cea8506.gif" alt="Imagem da API" width="300">
+  <img src="https://i.pinimg.com/originals/a2/4c/b5/a24cb568fa40046f8562dbc45cea8506.gif" alt="Imagem da API">
 </p>
 
 A API Todolist é uma aplicação simples para gerenciar listas de tarefas (to-do lists). Ela permite que os usuários criem, atualizem, excluam e visualizem suas listas de tarefas de forma eficiente.
