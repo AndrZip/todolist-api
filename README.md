@@ -22,7 +22,7 @@ Antes de começar a usar a API, certifique-se de que você tenha as seguintes de
 
 - Node.js
 - npm ou Yarn
-- Banco de dados (por exemplo, MongoDB)
+- Banco de dados SQL (por exemplo, MySQL)
 
 ## Instalação
 
@@ -31,7 +31,7 @@ Siga estas etapas para instalar e configurar a API Todolist:
 1. **Clone este repositório:**
 
    ```bash
-   git clone https://github.com/seu-usuario/todolist-api.git
+   git clone https://github.com/andrzip/todolist-api.git
    ```
 
 2. **Navegue até o diretório da API:**
@@ -51,8 +51,11 @@ Siga estas etapas para instalar e configurar a API Todolist:
 4. **Configure as variáveis de ambiente.** Crie um arquivo `.env` na raiz do projeto e defina as seguintes variáveis:
 
    ```dotenv
-   PORT=3000
-   MONGODB_URI=sua_url_de_conexão_com_o_banco_de_dados
+    PORT = [sua porta]
+    MYSQL_HOST = [nome da host]
+    MYSQL_USER = [nome do usuário]
+    MYSQL_PASSWORD = [senha]
+    MYSQL_DB = [nome da database]
    ```
 
 5. **Inicie o servidor:**
